@@ -1,6 +1,6 @@
-# Legal Documents for ScheduleMe Telegram Bot
+# Legal Documents for BookMe Telegram Bot
 
-This directory contains the Privacy Policy and Terms of Service documents for ScheduleMe Telegram Bot in three languages.
+This directory contains the Privacy Policy and Terms of Service documents for BookMe Telegram Bot in three languages.
 
 ## Files
 
@@ -28,7 +28,7 @@ This directory contains the Privacy Policy and Terms of Service documents for Sc
 These files are designed to be deployed on GitHub Pages. Once deployed, the legal documents will be accessible at:
 
 ```
-https://uabeseda.github.io/schedule-me/legal/
+https://book-me-now.github.io/docs/tg/
 ```
 
 ### Deployment Steps
@@ -43,17 +43,17 @@ https://uabeseda.github.io/schedule-me/legal/
 2. **Wait for deployment** (usually takes 1-2 minutes)
 
 3. **Access the legal documents**:
-   - **Main page**: `https://uabeseda.github.io/schedule-me/legal/index.html`
+   - **Main page**: `https://book-me-now.github.io/docs/tg/index.html`
 
    **Privacy Policy:**
-   - Ukrainian: `https://uabeseda.github.io/schedule-me/legal/privacy-policy-uk.html`
-   - English: `https://uabeseda.github.io/schedule-me/legal/privacy-policy-en.html`
-   - Russian: `https://uabeseda.github.io/schedule-me/legal/privacy-policy-ru.html`
+   - Ukrainian: `https://book-me-now.github.io/docs/tg/privacy-policy-uk.html`
+   - English: `https://book-me-now.github.io/docs/tg/privacy-policy-en.html`
+   - Russian: `https://book-me-now.github.io/docs/tg/privacy-policy-ru.html`
 
    **Terms of Service:**
-   - Ukrainian: `https://uabeseda.github.io/schedule-me/legal/terms-of-service-uk.html`
-   - English: `https://uabeseda.github.io/schedule-me/legal/terms-of-service-en.html`
-   - Russian: `https://uabeseda.github.io/schedule-me/legal/terms-of-service-ru.html`
+   - Ukrainian: `https://book-me-now.github.io/docs/tg/terms-of-service-uk.html`
+   - English: `https://book-me-now.github.io/docs/tg/terms-of-service-en.html`
+   - Russian: `https://book-me-now.github.io/docs/tg/terms-of-service-ru.html`
 
 ## BotFather Configuration
 
@@ -70,7 +70,7 @@ Once the privacy policy is deployed on GitHub Pages, configure it in BotFather:
 2. Select your bot from the list (e.g., `@your_bot_name`)
 3. Send the Privacy Policy URL:
    ```
-   https://uabeseda.github.io/schedule-me/legal/index.html
+   https://book-me-now.github.io/docs/tg/index.html
    ```
 4. BotFather will confirm: "Success! Privacy policy URL has been updated."
 
@@ -89,7 +89,7 @@ You can also mention the privacy policy in your bot description:
 2. Select your bot
 3. Add text like:
    ```
-   ScheduleMe - Booking platform for service specialists.
+   BookMe - Booking platform for service specialists.
 
    📅 Book appointments
    🔍 Find specialists nearby
@@ -105,7 +105,7 @@ The bot now supports legal document commands:
 Displays Privacy Policy links:
 
 ```
-🔒 Политика конфиденциальности ScheduleMe Bot
+🔒 Политика конфиденциальности BookMe Bot
 
 Мы серьезно относимся к защите ваших персональных данных.
 
@@ -125,7 +125,7 @@ Displays Privacy Policy links:
 Displays Terms of Service links:
 
 ```
-📜 Условия использования ScheduleMe Bot
+📜 Условия использования BookMe Bot
 
 Пожалуйста, ознакомьтесь с правилами использования нашего сервиса.
 

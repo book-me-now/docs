@@ -1,16 +1,16 @@
-# Terms of Service for ScheduleMe Bot
+# Terms of Service for BookMe Bot
 
 **Last Updated:** January 16, 2026
 
 ## 1. Acceptance of Terms
 
-Welcome to ScheduleMe Bot ("Bot", "Service", "we", "us", or "our"). By using our Telegram bot, you agree to comply with and be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the Bot.
+Welcome to BookMe Bot ("Bot", "Service", "we", "us", or "our"). By using our Telegram bot, you agree to comply with and be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the Bot.
 
-These Terms constitute a legally binding agreement between you and ScheduleMe. Use of the Bot signifies your complete acceptance of these Terms.
+These Terms constitute a legally binding agreement between you and BookMe. Use of the Bot signifies your complete acceptance of these Terms.
 
 ## 2. Service Description
 
-ScheduleMe Bot is a platform for booking services from specialists (manicurists, massage therapists, cosmetologists, etc.) via Telegram.
+BookMe Bot is a platform for booking services from specialists (manicurists, massage therapists, cosmetologists, etc.) via Telegram.
 
 ### 2.1 Core Features
 
@@ -151,7 +151,7 @@ Upon violation of these Terms, we reserve the right to:
 
 ### 7.1 Current Model
 
-Currently, ScheduleMe Bot **does not process payments**. All financial transactions occur directly between client and specialist.
+Currently, BookMe Bot **does not process payments**. All financial transactions occur directly between client and specialist.
 
 ### 7.2 Future Payment Features
 
@@ -162,15 +162,15 @@ When we add payment system integration:
 
 ### 7.3 Payment Responsibility
 
-- ScheduleMe is not responsible for financial disputes between users
+- BookMe is not responsible for financial disputes between users
 - Disputes are resolved directly between client and specialist
 - We may provide booking data upon request
 
 ## 8. Intellectual Property
 
-### 8.1 ScheduleMe Rights
+### 8.1 BookMe Rights
 
-All rights to the Service, including code, design, logos, and content belong to ScheduleMe or are used under license.
+All rights to the Service, including code, design, logos, and content belong to BookMe or are used under license.
 
 **Prohibited:**
 - Copying code or functionality
@@ -195,7 +195,7 @@ You retain rights to content you upload (photos, descriptions, portfolio).
 
 ### 9.1 Limitation of Warranties
 
-ScheduleMe Bot is provided **"AS IS"** without any warranties:
+BookMe Bot is provided **"AS IS"** without any warranties:
 
 ⚠️ **We DO NOT guarantee:**
 - Uninterrupted Service operation
@@ -206,7 +206,7 @@ ScheduleMe Bot is provided **"AS IS"** without any warranties:
 
 ### 9.2 Limitation of Liability
 
-**ScheduleMe is NOT responsible for:**
+**BookMe is NOT responsible for:**
 
 ❌ Specialists' actions (service quality, punctuality, professionalism)
 ❌ Clients' actions ("no-show", refusal to pay)
@@ -312,7 +312,7 @@ If you use the Service from outside Ukraine:
 
 ### 15.1 Entire Agreement
 
-These Terms together with Privacy Policy constitute the entire agreement between you and ScheduleMe.
+These Terms together with Privacy Policy constitute the entire agreement between you and BookMe.
 
 ### 15.2 Severability
 
@@ -344,7 +344,7 @@ If you have questions about these Terms of Service:
 
 ---
 
-**Thank you for using ScheduleMe Bot!**
+**Thank you for using BookMe Bot!**
 
 By using our Service, you confirm that you have read, understood, and agree to these Terms of Service.
 

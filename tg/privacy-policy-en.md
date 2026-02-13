@@ -1,12 +1,12 @@
-# Privacy Policy for ScheduleMe Bot
+# Privacy Policy for BookMe Bot
 
 **Last Updated:** January 16, 2026
 
 ## 1. Introduction
 
-Welcome to ScheduleMe Bot ("Bot", "we", "us", or "our"). We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, store, and protect your information when you use our Telegram bot.
+Welcome to BookMe Bot ("Bot", "we", "us", or "our"). We respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, store, and protect your information when you use our Telegram bot.
 
-By using ScheduleMe Bot, you agree to the collection and use of information in accordance with this policy.
+By using BookMe Bot, you agree to the collection and use of information in accordance with this policy.
 
 ## 2. Information We Collect
 
@@ -121,7 +121,7 @@ We will respond to your request within 30 days.
 
 ## 8. Cookies and Tracking
 
-Our Telegram bot **does not use cookies** as it operates within Telegram. However, if you navigate to the ScheduleMe website through the bot, other privacy policies may apply.
+Our Telegram bot **does not use cookies** as it operates within Telegram. However, if you navigate to the BookMe website through the bot, other privacy policies may apply.
 
 ## 9. Children's Privacy
 
@@ -153,6 +153,6 @@ If you believe your rights have been violated, you have the right to file a comp
 
 ---
 
-**Thank you for trusting ScheduleMe Bot!**
+**Thank you for trusting BookMe Bot!**
 
 By using our bot, you confirm that you have read and understood this Privacy Policy.
